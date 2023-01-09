@@ -38,7 +38,7 @@ When in the terminal again, input ```npm run seed``` then ```npm start```
 
 For a tutorial on start, run, and receive data in the application, click the text below to be taken to a video guide.
 
-[Click me to help you start up!](https://drive.google.com/file/d/1L2bvcM3FRoorl5zumLZUUXqWU0Od08Oy/view)
+[Click me to help you start up!](https://drive.google.com/file/d/1L2bvcM3FRoorl5zumLZUUXqWU0Od08Oy/view)<br />
 [Click me to help you sort data!](https://drive.google.com/file/d/1MiVzIc3-7KEThUenN2g7pgVBMN6-7Vby/view)
 
 ## License
